@@ -50,7 +50,7 @@ touch spec/fileYouAreTesting.js
 * Then copy the TestRunner.html path into you preferred browser
 * open up the dev tools and look at the console.
 ##### Example:
-  ![Alt text](resources/pictures/ExponentialNotes_Example.png "Example")
+  ![Alt text](resources/ExponentialNotes_Example.png "Example")
 * Please Note that You have to write your own console.log statements
 ##### Example:
 `````
